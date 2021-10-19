@@ -17,3 +17,6 @@ False
 
 leetcode problem uses all as part of the solution.
 [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)
+
+### `intertools`
+functions creating iterators for efficient looping
