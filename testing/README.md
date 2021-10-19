@@ -1,9 +1,12 @@
-3 basic steps of every test:
+## 3 basic steps of every test:
 
 1: Create your inputs
+
 2: Execute the code, capturing the output
+
 3: Compare the output with an expected result.
 
+## Formatter
 - code formatter: black
-- code linter: flake8, 
+- code linter: flake8, pep8
 
