@@ -1,6 +1,10 @@
 # all-about-python
 a repo where I note cool and interesting that I learn about python
 
+## Table of Content:
+### 1: Keywords
+### 2: Built in functions
+### 3: Mutation
 
 ## Key words
 ### yield
@@ -70,3 +74,9 @@ leetcode problem uses all as part of the solution.
 
 ### `intertools`
 functions creating iterators for efficient looping
+
+## Mutation
+- list and dictionary are mutable
+- string is not mutable
+
+mutable = it can change the original version after you pass it into another function
