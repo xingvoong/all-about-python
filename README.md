@@ -76,6 +76,7 @@ leetcode problem uses all as part of the solution.
 functions creating iterators for efficient looping
 
 ### sort by elements in python tuples
+sorted([('abc', 121),('abc', 231),('abc', 148), ('abc',221)],key=lambda x: x[1], reverse=True)
 
 
 ## Mutation
@@ -83,3 +84,13 @@ functions creating iterators for efficient looping
 - string is not mutable
 
 mutable = it can change the original version after you pass it into another function
+
+## Creating virtual machine
+to create virtual env:
+
+1: installing
+	python3 -m pip install --user virtualenv
+	
+2: python3 -m venv env
+
+3: source env/bin/activate
