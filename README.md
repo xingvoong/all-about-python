@@ -75,9 +75,15 @@ leetcode problem uses all as part of the solution.
 ### `intertools`
 functions creating iterators for efficient looping
 
-### sort by elements in python tuples
+### `sort by elements in python tuples`
+```
 sorted([('abc', 121),('abc', 231),('abc', 148), ('abc',221)],key=lambda x: x[1], reverse=True)
+```
 
+To break tie
+```
+tuples.sort(key=lambda x: (x[0], x[1]))
+```
 
 ## Mutation
 - list and dictionary are mutable
