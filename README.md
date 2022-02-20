@@ -102,3 +102,4 @@ to create virtual env:
 3: source env/bin/activate
 
 ## Being Productive with Python in VSCode
+https://www.youtube.com/watch?v=6YLMWU-5H9o
