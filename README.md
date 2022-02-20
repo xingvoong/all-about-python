@@ -100,3 +100,5 @@ to create virtual env:
 2: python3 -m venv env
 
 3: source env/bin/activate
+
+## Being Productive with Python in VSCode
