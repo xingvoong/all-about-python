@@ -5,6 +5,8 @@ a repo where I note cool and interesting that I learn about python
 ### 1: Keywords
 ### 2: Built in functions
 ### 3: Mutation
+### 4: create virtual enviroment
+### 5: command line interface
 
 ## Key words
 ### yield
@@ -105,3 +107,10 @@ to create virtual env:
 - https://www.youtube.com/watch?v=6YLMWU-5H9o
 - Advanced visual studio code for python developers
 - https://realpython.com/advanced-visual-studio-code-python/
+
+## CLI
+- to instal with the rigth version
+```bash
+python3.9 -m pip install openai
+```
+
