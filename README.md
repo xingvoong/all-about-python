@@ -96,12 +96,18 @@ mutable = it can change the original version after you pass it into another func
 ## Creating virtual machine
 to create virtual env:
 
-1: installing
-	python3 -m pip install --user virtualenv
-	
-2: python3 -m venv env
-
-3: source env/bin/activate
+installing
+```
+python3 -m pip install --user virtualenv
+```
+create env
+```
+python3 -m venv env
+```
+activate
+```
+source env/bin/activate
+```
 
 ## Being Productive with Python in VSCode
 - https://www.youtube.com/watch?v=6YLMWU-5H9o
