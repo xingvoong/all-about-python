@@ -7,6 +7,7 @@ a repo where I note cool and interesting that I learn about python
 ### 3: Mutation
 ### 4: create virtual enviroment
 ### 5: command line interface
+### 6: caffeinated (not python but good to run Machine Learning python scripts)
 
 ## Key words
 ### yield
@@ -119,4 +120,8 @@ source env/bin/activate
 ```bash
 python3.9 -m pip install openai
 ```
-
+# caffeinated
+not a python script but a mac os script which is usually to stop macbook from sleeping.
+```
+caffeinate python3 training-cnn.py
+```
