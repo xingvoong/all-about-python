@@ -116,11 +116,11 @@ source env/bin/activate
 - https://realpython.com/advanced-visual-studio-code-python/
 
 ## CLI
-- to instal with the rigth version
+- to install with the right version
 ```bash
 python3.9 -m pip install openai
 ```
-# caffeinated
+# caffeinate
 not a python script but a mac os script which is usually to stop macbook from sleeping.
 ```
 caffeinate python3 training-cnn.py
